@@ -1,1 +1,5 @@
-export class CreateTravelDto {}
+export class CreateTravelDto {
+    name: string;
+    price: number;
+
+}
